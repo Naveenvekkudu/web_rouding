@@ -1,5 +1,6 @@
 Django documentation¶
-Everything you need to know about Django.
+Everything you need to know about Django.tnx for this
+
 
 First steps¶
 Are you new to Django or to programming? This is the place to start!
